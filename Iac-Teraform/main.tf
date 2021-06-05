@@ -2,8 +2,8 @@ provider "aws" {
     version = "~> 2.0" 
     region = var.aws_region
     profile = var.profile
-    access_key = "AKIA22GXERMVSEYZ3RNJ"
-    secret_key = "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"
+    access_key = ""
+    secret_key = ""
 }
 
 # create NordCloud vpc
